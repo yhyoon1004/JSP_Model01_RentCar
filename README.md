@@ -39,7 +39,11 @@ DB = Mysql  (오라클DB 사용 중 개인PC를 윈도우11 업데이트 후  �
 ![image](https://user-images.githubusercontent.com/79188190/160530862-e5d687dd-7d06-41b7-b122-bcc2b89d0d1a.png)
 
 
-
+구현 기능 : 로그인처리, 차량 예약기능 
+문제 사항 : 개발시간 확보가 불충분해 다수의 기능 미구현(정보처리산업기사시험공부, 학업, 팀프로젝트 등으로 인해..)
+            개발과정중 개발환경의 각종 에러로 개발 지연(버전차이, 오타 등..)
+문제 해결 목록 : https://www.notion.so/Cording-634d7d699d4d47899c5145b8efc065c4
+            
 
 
 DB테이블 구성

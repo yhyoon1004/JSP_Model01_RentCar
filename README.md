@@ -1,5 +1,5 @@
 # JSP_Model01_RentCar
-JSP Model 01 방식을 사용한 차량예약 홈페이지\n
+JSP Model 01 방식을 사용한 차량예약 홈페이지
 언어 및 마크업 언어 = java , jsp , html ,간단한 script코드
 IDE = 이클립스
 DB = Mysql  (오라클DB 사용 중 개인PC를 윈도우11 업데이트 후  오라클 DB오류발생으로 mysqlDB로 변경)

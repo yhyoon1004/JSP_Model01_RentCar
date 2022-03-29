@@ -54,7 +54,7 @@ DB테이블 구성
 -rentcar테이블  
 ![image](https://user-images.githubusercontent.com/79188190/160530431-003f1629-9063-48f7-8f85-074085ff0fb7.png)
     입력된 테이블 값 예  
-    ![image](https://user-images.githubusercontent.com/79188190/160531151-f9651b90-0581-4c9e-8344-550bd5006093.png)
+    ![image](https://user-images.githubusercontent.com/79188190/160531151-f9651b90-0581-4c9e-8344-550bd5006093.png)  
     (DB에 해당한는 차량의 이미지경로를 문자열로 저장해 해당경로를 프로젝트안에 경로와 맞추어 이미지를 출력하는 형식)  
 -member테이블  
 ![image](https://user-images.githubusercontent.com/79188190/160530309-6840ddda-cf11-4684-82ad-6498b71b78ba.png)

@@ -56,6 +56,8 @@ DB테이블 구성
     DB에 해당한는 차량의 이미지경로를 문자열로 저장해 해당경로를 프로젝트안에 경로와 맞추어 이미지를 출력하는 형식
 -member테이블
 ![image](https://user-images.githubusercontent.com/79188190/160530309-6840ddda-cf11-4684-82ad-6498b71b78ba.png)
+    입력된 테이블 값 예
+    ![image](https://user-images.githubusercontent.com/79188190/160534398-a6d920f5-f9a6-4322-9142-db9e13f44ba4.png)
 
 -carreserve테이블
 ![image](https://user-images.githubusercontent.com/79188190/160530159-d461852f-d133-4e9c-8c2b-04b576f0c31a.png)

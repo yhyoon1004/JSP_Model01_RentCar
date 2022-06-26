@@ -4,7 +4,7 @@
 1. 개발환경
  언어 및 마크업 언어 = java , jsp , html ,간단한 script코드  
  IDE = 이클립스  
- DB = Mysql  (오라클DB 사용 중 개인PC를 윈도우11 업데이트 후  오라클DB 오류발생으로 MysqlDB로 변경)  
+ DB = Mysql  (오라클DB 사용 중 개인PC의 OS를 윈도우11로 업데이트 후  오라클DB에서 오류발생, 이후DB를 MysqlDB로 변경)  
     아파치 톰캣 8.5버전  
 
 

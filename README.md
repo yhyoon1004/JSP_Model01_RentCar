@@ -1,14 +1,15 @@
 # JSP_Model01_RentCar
-#JSP Model 01 방식을 사용한 차량예약 홈페이지
+# JSP Model 01 방식을 사용한 차량예약 홈페이지
 
+※당시 프로젝트 import, export에 미숙한 점과 무지로 소스파일이 아닌 class파일로 commit되어 소스가 안보여집니다.
 1. 개발환경
  언어 및 마크업 언어 = java , jsp , html ,간단한 script코드  
  IDE = 이클립스  
- DB = Mysql  (오라클DB 사용 중 개인PC의 OS를 윈도우11로 업데이트 후  오라클DB에서 오류발생, 이후DB를 MysqlDB로 변경)  
+ DB = Mysql  (오라클DB 사용 중 개인PC의 OS를 윈도우11로 업데이트 후  오라클DB에서 오류발생, 이후 DB를 MysqlDB로 변경)  
     아파치 톰캣 8.5버전  
 
 
-##실행 결과  
+## 실행 결과  
 
 ![스크린샷(14)](https://user-images.githubusercontent.com/79188190/160531806-7f1bdad4-f044-429d-9579-5d04533f8ca6.png)
 
